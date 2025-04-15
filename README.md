@@ -45,7 +45,7 @@ Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 ![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
 
 
-##Sistema Bancário
+## Sistema Bancário
 
 Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 
@@ -53,6 +53,7 @@ Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 
 ![Image](https://github.com/user-attachments/assets/dc5408a7-fef0-4e13-a192-f300042ab646)
 
+![Image](https://github.com/user-attachments/assets/631dc247-cfcb-4750-84e4-2c5bff399993)
 ## Membros
 
 - Victhor Gabriel 
