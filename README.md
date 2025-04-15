@@ -88,7 +88,7 @@ Sistema(emite-recibo) → Cliente(acompanha-pedido)
 Administrador(faz-login) → Sistema(valida-acesso) →
 Administrador(cadastra-produto | gerencia-estoque)
 
-
+![Image](https://github.com/user-attachments/assets/bf998d3a-63dd-44e4-b68c-159efd3e370e)
 
 
 ## <h1>Membros</h1>
