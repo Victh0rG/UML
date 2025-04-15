@@ -54,6 +54,10 @@ Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 ![Image](https://github.com/user-attachments/assets/dc5408a7-fef0-4e13-a192-f300042ab646)
 
 ![Image](https://github.com/user-attachments/assets/631dc247-cfcb-4750-84e4-2c5bff399993)
+
+
+## Biblioteca
+
 ## Membros
 
 - Victhor Gabriel 
