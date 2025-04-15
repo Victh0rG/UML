@@ -79,6 +79,15 @@ Sistema de Notificação(envia-alerta-de-livro-disponível) → Usuário(recebe-
 ## Loja Online
 
 ##Agentes
+Cliente(faz-login) → Sistema(autentica-usuário) →
+Cliente(busca-produto) → Sistema(exibe-produtos) →
+Cliente(adiciona-ao-carrinho) → Sistema(registra-itens) →
+Cliente(finaliza-compra) → Sistema de Pagamento(processa-pagamento) →
+Sistema(emite-recibo) → Cliente(acompanha-pedido)
+⠀
+Administrador(faz-login) → Sistema(valida-acesso) →
+Administrador(cadastra-produto | gerencia-estoque)
+
 
 
 
