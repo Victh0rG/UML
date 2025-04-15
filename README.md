@@ -44,12 +44,17 @@ Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 
 ![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
 
-# App-de-entrega
-Este repositório tem fins didáticos, para a disciplina de UML
-App de Entrega de Comida
+
+#Sistema Bancário
+
+Demonstra as interações dos usuários (cliente, gerente) com o sistema.
+
+![Image](https://github.com/user-attachments/assets/43640e95-0214-4a13-8306-f07850c54f0f)
+
 
 ## Membros
 
 - Victhor Gabriel 
 - Vinicius Guimarães 
 - João Vitor Gonçalves
+
