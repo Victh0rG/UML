@@ -54,6 +54,7 @@ Cliente(realiza-transação) → Sistema Bancário(processa-transação) →
 Gerente(aprova-ou-bloqueia) → Sistema Bancário(executa) →
 Sistema Externo(processa-pagamento) → Sistema Bancário(retorna-status) →
 Cliente(recebe-confirmação)
+
 ![Image](https://github.com/user-attachments/assets/43640e95-0214-4a13-8306-f07850c54f0f)
 
 ![Image](https://github.com/user-attachments/assets/dc5408a7-fef0-4e13-a192-f300042ab646)
@@ -77,7 +78,7 @@ Sistema de Notificação(envia-alerta-de-livro-disponível) → Usuário(recebe-
 
 ## Membros
 
-- Victhor Gabriel 
+- <h2>Victhor Gabriel<\h2> 
 - Vinicius Guimarães 
 - João Vitor Gonçalves
 
