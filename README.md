@@ -43,3 +43,13 @@ Demonstra as interações dos usuários (cliente, loja e entregador) com o siste
 Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 
 ![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
+
+# App-de-entrega
+Este repositório tem fins didáticos, para a disciplina de UML
+App de Entrega de Comida
+
+## Membros
+
+- Victhor Gabriel 
+- Vinicius Guimarães 
+- João Vitor Gonçalves
