@@ -45,12 +45,13 @@ Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 ![Image](https://github.com/user-attachments/assets/674a7a2f-fb1c-4440-a7ef-544d223ead88)
 
 
-#Sistema Bancário
+##Sistema Bancário
 
 Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 
 ![Image](https://github.com/user-attachments/assets/43640e95-0214-4a13-8306-f07850c54f0f)
 
+![Image](https://github.com/user-attachments/assets/dc5408a7-fef0-4e13-a192-f300042ab646)
 
 ## Membros
 
