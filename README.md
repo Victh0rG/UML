@@ -49,6 +49,11 @@ Demonstra a estrutura do sistema e os relacionamentos entre as entidades.
 
 Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 
+## Agentes
+Cliente(realiza-transação) → Sistema Bancário(processa-transação) →
+Gerente(aprova-ou-bloqueia) → Sistema Bancário(executa) →
+Sistema Externo(processa-pagamento) → Sistema Bancário(retorna-status) →
+Cliente(recebe-confirmação)
 ![Image](https://github.com/user-attachments/assets/43640e95-0214-4a13-8306-f07850c54f0f)
 
 ![Image](https://github.com/user-attachments/assets/dc5408a7-fef0-4e13-a192-f300042ab646)
@@ -58,8 +63,17 @@ Demonstra as interações dos usuários (cliente, gerente) com o sistema.
 
 ## Biblioteca
 
+Demonstra as interações dos usuários (cliente, gerente) com o sistema.
+
+## Agentes
+Usuário(solicita-empréstimo) → Sistema(autentica-usuário) →
+Usuário(reserva-livro) → Sistema de Notificação(envia-confirmação-de-reserva) →
+Bibliotecário(registra-devolução) → Sistema de Notificação(envia-notificação-pendente) →
+Sistema de Notificação(envia-alerta-de-livro-disponível) → Usuário(recebe-alerta)
+
 ![Image](https://github.com/user-attachments/assets/c4d8d089-b10c-4b26-afdb-fa29ab145632)
 
+![Image](https://github.com/user-attachments/assets/8b8502c6-f5c0-4de3-9263-73ab55c05e48)
 
 ## Membros
 
