@@ -76,6 +76,12 @@ Sistema de Notificação(envia-alerta-de-livro-disponível) → Usuário(recebe-
 
 ![Image](https://github.com/user-attachments/assets/8b8502c6-f5c0-4de3-9263-73ab55c05e48)
 
+## Loja Online
+
+##Agentes
+
+
+
 ## <h1>Membros</h1>
 
 - <h2>Victhor Gabriel</h2> 
