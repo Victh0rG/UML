@@ -76,9 +76,9 @@ Sistema de Notificação(envia-alerta-de-livro-disponível) → Usuário(recebe-
 
 ![Image](https://github.com/user-attachments/assets/8b8502c6-f5c0-4de3-9263-73ab55c05e48)
 
-## Membros
+## <h1>Membros</h1>
 
-- <h2>Victhor Gabriel<\h2> 
-- Vinicius Guimarães 
-- João Vitor Gonçalves
+- <h2>Victhor Gabriel</h2> 
+- <h2>Vinicius Guimarães</h2>   
+- <h2>João Vitor Gonçalves</h2>
 
